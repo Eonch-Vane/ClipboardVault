@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+	    android:width="48dp"
+	    android:height="48dp"
+	    android:viewportWidth="48"
+	    android:viewportHeight="48">
+	    <!-- 占位启动图标：保证开箱编译通过，后续可用 Image Asset Studio 替换 -->
+	    <path
+		            android:fillColor="#006A6A"
+		            android:pathData="M10,6 L38,6 L38,42 L10,42 Z" />
+		        <path
+				        android:fillColor="#FFFFFF"
+				        android:pathData="M15,15 L33,15 L33,19 L15,19 Z M15,23 L33,23 L33,27 L15,27 Z M15,31 L27,31 L27,35 L15,35 Z" />
+		</vector>
+

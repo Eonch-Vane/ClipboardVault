@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	    <!-- 平台层仅要求 NoActionBar；实际外观由 Compose 的 ClipboardVaultTheme 控制 -->
+	    <style name="Theme.ClipboardVault" parent="android:Theme.Material.Light.NoActionBar" />
+    </resources>
+

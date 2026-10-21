@@ -1,0 +1,5 @@
+<resources>
+	    <string name="app_name">外置粘贴板</string>
+	        <string name="empty_hint">暂无文本片段</string>
+	</resources>
+
